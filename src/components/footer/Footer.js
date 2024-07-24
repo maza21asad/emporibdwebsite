@@ -23,6 +23,9 @@ const Footer = () => {
             <h4> Quick Link </h4>
             <ul className="f-list">
               <li>
+                <NavLink to="/services">Services</NavLink>
+              </li>
+              <li>
                 <NavLink to="/about">About</NavLink>
               </li>
               <li>
